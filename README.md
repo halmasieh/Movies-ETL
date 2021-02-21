@@ -16,7 +16,8 @@ This project is done as follows:
 
 ## Resources
 - Data Sources: movies_metadata.csv, ratings.csv, wikipedia-movies.json
-- Software: [PostgresSQL](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads), PgAdmin
+- Software: [Anaconda( Jupyter Notebook )](https://www.anaconda.com/products/individual), [PostgresSQL](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
+- Module: pandas, numpy, json, re, create_engine,db_password, time  
 
 ## Results
 Looking at the table following table, we can see:
