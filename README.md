@@ -23,27 +23,10 @@ This project is done as follows:
 ## Summary
 
 Using the knowledge of Python, Pandas, the ETL process, to achieve the following goals: 
+- Write a function that reads in the three data files and creates three separate DataFrames.
+- Extract and transform the Wikipedia data so we can merge it with the Kaggle metadata. While extracting the IMDb IDs using a regular expression string and dropping duplicates,   use a try-except block to catch errors.
+- Extract and transform the Kaggle metadata and MovieLens rating data, then convert the transformed data into separate DataFrames. 
+- Merge the Kaggle metadata DataFrame with the Wikipedia movies DataFrame to create the movies_df DataFrame. 
+- Merge the MovieLens rating data DataFrame with the movies_df DataFrame to create the movies_with_ratings_df.
+- use PostgreSQL to add the movies_df DataFrame and MovieLens rating CSV data to a SQL database.
 
-
-
-
-
-
-![here](https://github.com/halmasieh/Pewlett-Hackard-Analysis/blob/main/silver_tsunami.PNG)
-
-
-
-Most people over 65 years who retire soon are Engineers and Senior Staffs, repectively, therefore, the need to employ these two roles is a priority.
-The rest of roles will need to be filled are Staff, Senior Engineer, Technique Leader, Assisstant Engineer and Manager, respectively.
-
-The table below shows the trainees in the mentorship eligiblity program according to the different job titles:
-
-
-
-![here](https://github.com/halmasieh/Pewlett-Hackard-Analysis/blob/main/mentorship_eligiblity_count.PNG)
-
-
-
-Comparing the above two tables, it is quite clear that the number of qualified trainees in the mentorship program who can replace with 
-the silver tsunami retirees is not enough and Pewlett-Hackard needs to train more people to be able to hold various roles in this large company.
-The code for the tables is available [here](https://github.com/halmasieh/Pewlett-Hackard-Analysis/blob/main/silver_tsunami.sql).  
