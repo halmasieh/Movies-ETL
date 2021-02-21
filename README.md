@@ -3,7 +3,7 @@
 ## Project Overview
 In this analysis, we started with data pipline process which means Extract, Transform, and load or ETL. ETL is the process of moving information between
 databases. For example Google and Amazon are constantly moving data around to different locations to improve performance. ETL is a core concept in data engineering 
-insuring the data is consistant and maintains integrity. Without consistant robust data any forrm of analysis is impossible.
+insures the data is consistant and maintains integrited. Without consistant robust data any forrm of analysis is impossible.
 The ETL process can also create data store, that perform more efficiently reducing the time. We will be using pandas and Python to perform our data wrangling 
 and PostgresSQL to store our finished data. 
 
