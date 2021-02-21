@@ -22,7 +22,8 @@ This project is done as follows:
 
 ## Summary
 
-Using the knowledge of Python, Pandas, the ETL process, and code refactoring, we created a function that reads in the three data files and creates three separate DataFrames.
+Using the knowledge of Python, Pandas, the ETL process, to achieve the following goals: 
+
 
 
 
