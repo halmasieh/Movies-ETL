@@ -19,38 +19,12 @@ This project is done as follows:
 - Software: [Jupyter Notebook](https://www.anaconda.com/products/individual), [PostgresSQL](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 - Module: pandas, numpy, json, re, create_engine, db_password, time  
 
-## Results
-Looking at the table following table, we can see:
-
-
-
-![here](https://github.com/halmasieh/Pewlett-Hackard-Analysis/blob/main/retiring_%20titles.PNG)
-
-
-
-1- By observing the number of titles, it is clear that the highest number of retriees occurs in the title of Senior Engineer and with very small 
-difference is Senior Staff. Therefore, the greatest demand four employment is in these positions. Hence, long-term investment in training should be made
-to fill these positions. 
-
-2- In the next categories, recruitment should be done in Engineer, Staff, Assisstant Engineer and Technique Leader.
-
-3- The least number who are retiring is for manager position and only two people are needed to fill this job.
-
-4- By viewing the mentorship count per title table at the bottom of this page, the number of eligible employees for the mentorship program is obtained and undoubtedly, Pewllet-Hackard will have to make big decisions for training in different job titles. The company must have a long-term plan to be able to replace these who retire soon. 
-
-5- The Pewllet-Hackard has to be careful of the silver tsunami in order to not face a shortage of employees in different job titles.
-
 
 ## Summary
 
-In fact "Silver Tsunami" is a metaphor used to describe the expected increase in the senior population. Today 15% of Americans are 65 or older and the aging population
-can bring positive change to healthcare and senior living. Avtually, there are three main areas of our economy and society that will be most affected by 
-- Health Care Resources
-- Economic Struggles
-- Workforce Influence
+Using the knowledge of Python, Pandas, the ETL process, and code refactoring, we created a function that reads in the three data files and creates three separate DataFrames.
 
-Focus on the latter, lest all this sound hopeless and awful, many seniors will stay healthy long enough to work past the age they may have had in mind for retirement. 
-We performed this analysis on personels over sixty five years old with different job titles and the results are shown in the following table as:
+
 
 
 
