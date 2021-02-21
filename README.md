@@ -28,5 +28,5 @@ Using the knowledge of Python, Pandas, the ETL process, to achieve the following
 - Extract and transform the Kaggle metadata and MovieLens rating data, then convert the transformed data into separate DataFrames. 
 - Merge the Kaggle metadata DataFrame with the Wikipedia movies DataFrame to create the movies_df DataFrame. 
 - Merge the MovieLens rating data DataFrame with the movies_df DataFrame to create the movies_with_ratings_df.
-- use PostgreSQL to add the movies_df DataFrame and MovieLens rating CSV data to a SQL database.
+- Use PostgreSQL to add the movies_df DataFrame and MovieLens rating CSV data to a SQL database.
 
